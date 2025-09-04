@@ -46,7 +46,7 @@ body {
 
 .siteName a {
   display: flex;
-  align-items: center; /* Vertically centers image and text block */
+  align-items: center;
   color: #1a202c;
   text-decoration: none;
   font-weight: bold;
@@ -196,8 +196,8 @@ footer {
 }
 
 .siteName a img {
-  height: 3.5rem;
-  margin-right: -0.2rem;
+  height: 5rem;
+  margin-right: -1rem;
 }
 
 .logo-text {
