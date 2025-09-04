@@ -34,7 +34,7 @@ body {
   background-color: #fff;
   border: 1px solid var(--accent-color);
   border-radius: var(--border-radius);
-  padding: 1.5rem;
+  padding: 1rem;
   color: #1a202c;
 }
 
